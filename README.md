@@ -1,5 +1,7 @@
 # 🕵️‍♂️ Blackwood Manor Mystery – A Text-Based Adventure Game
 
+**The codes will be committed to github soon!!**
+
 Welcome to **Blackwood Manor Mystery**, a simple and fun text-based adventure game where you play as a detective trying to solve the case of a missing writer. Choose your actions wisely — each one affects your story.
 
 ---
@@ -25,7 +27,7 @@ Welcome to **Blackwood Manor Mystery**, a simple and fun text-based adventure ga
  📸 Screenshot
 
 ![Screenshot 2025-03-04 165459](https://github.com/user-attachments/assets/a74d0e2a-4f6a-4030-8fbe-91126cf8aa3f)  
-> Replace this with your actual image file if you rename it.
+
 
 ---
 
